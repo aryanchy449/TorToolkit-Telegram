@@ -3,19 +3,19 @@ try:
 except:
     class ExecVars:
         # Set true if its VPS
-        IS_VPS = False
+        IS_VPS = True
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
+        API_HASH = "b3611c291bf82d917637d61e4a136535"
+        API_ID = 23080322
+        BOT_TOKEN = "6931048916:AAEiwn5cej-PVBw95cqsGskW-BEGx95o4jY"
         BASE_URL_OF_BOT = ""
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
-        OWNER_ID = 0
+        ALD_USR = [6214889840]
+        OWNER_ID = 6214889840
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = False
