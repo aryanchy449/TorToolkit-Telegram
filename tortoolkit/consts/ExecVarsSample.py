@@ -8,10 +8,10 @@ except:
         API_HASH = "b3611c291bf82d917637d61e4a136535"
         API_ID = 23080322
         BOT_TOKEN = "6931048916:AAEiwn5cej-PVBw95cqsGskW-BEGx95o4jY"
-        BASE_URL_OF_BOT = ""
+        BASE_URL_OF_BOT = "https://deepnote.com:8080"
 
         # Edit the server port if you want to keep it default though.
-        SERVPORT = 80
+        SERVPORT = 8080
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
         ALD_USR = [6214889840]
@@ -36,7 +36,7 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DB_URI = "dbname=tortk user=postgres password=your-pass host=127.0.0.1 port=5432"
+        DB_URI = "dbname=neondb user=neondb_owner password=h2EZWbyde4Sa host=ep-black-wildflower-a6wopsrz.us-west-2.aws.neon.tech/neondb?sslmode=require port=5432"
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
