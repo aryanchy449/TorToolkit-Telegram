@@ -8,7 +8,7 @@ except:
         API_HASH = "b3611c291bf82d917637d61e4a136535"
         API_ID = 23080322
         BOT_TOKEN = "6931048916:AAEiwn5cej-PVBw95cqsGskW-BEGx95o4jY"
-        BASE_URL_OF_BOT = "https://deepnote.com:8080"
+        BASE_URL_OF_BOT = "https://shell.cloud.google.com/devshell/proxy?authuser=3&port=8080&environment_id=ephemeral-ptkc"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 8080
